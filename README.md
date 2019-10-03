@@ -1,3 +1,6 @@
+# Fork
+Fixed v2 for latest firefox low quality
+
 # mediasoup-client
 
 [![][npm-shield-mediasoup-client]][npm-mediasoup-client]
